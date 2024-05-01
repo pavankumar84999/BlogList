@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+
+li {
+  display: flex;
+  flex-direction: column;
+}
+
+.date {
+    
+    self-align:flex-end;
+}
